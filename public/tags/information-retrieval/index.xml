@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Retrieval on Weimao Ke</title>
+    <link>https://gethugothemes.com/academia/site/tags/information-retrieval/</link>
+    <description>Recent content in Information Retrieval on Weimao Ke</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://gethugothemes.com/academia/site/tags/information-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information Theory</title>
+      <link>https://gethugothemes.com/academia/site/project/info-theory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/info-theory/</guid>
+      <description>&lt;p&gt;What is information? How can we quantify the amount of information? These are fundamental and challenging questions. They are fundamental because a broad spectrum of problems we face are centered on the notion of \textbf{information} and how it can be measured in practical applications. Yet there is hardly any agreement on what it is and how it should be treated. From \textit{Shannon Entropy} to \textit{Landauer&amp;rsquo;s principle} and Wheeler&amp;rsquo;s ``It from Bit,&amp;rsquo;&amp;rsquo; there are perspectives in which information can be viewed and measured.&lt;/p&gt;
+&lt;p&gt;A better understanding of these questions through the lenses of related theories and discoveries will provide insight into new models for improved information representation, dissemination, and analytics. Rooted in Shannon&amp;rsquo;s entropic framework of information, my research on the Least Information Theory (LIT) and the Discounted LIT of Entropy (DLITE or pronounced \textit{delight}) attempts to address very practical problems in information processing by creating a new theory with several desirable properties. It was a risky research project I initiated as a junior faculty member which, fortunately, has yielded extraordinary fruit on both the theoretical and practical levels.&lt;/p&gt;
+&lt;p&gt;Information theory provides the foundation and guiding principles for research in search and analytics. In the formulation of LIT and DLITE as potential quantities of information, we discovered multiple principle properties desirable in information retrieval and text mining tasks.&lt;/p&gt;
+&lt;p&gt;For example, classic Inverse Document Frequency (IDF) scoring computes the amount of Kullback-Leibler (KL) divergence in a term (word) as its term weight. It is often assumed that these weights can be added up as a distance metric and can be compared on the same scale when their theoretical characteristics suggest otherwise. The development of DLITE addresses these issues because of its distinctive properties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DLITE is a \textit{volumetric} and its cube root a \textit{distance metric} that satisfies properties such as triangular inequality. It is fitting to use it in classic scoring functions where the sum of such values (scores) are meaningful.&lt;/li&gt;
+&lt;li&gt;DLITE is normalized and bounded. As such, it mitigates issues of dominant terms in the scoring/ranking function, e.g. a rare term that renders other query terms useless.&lt;/li&gt;
+&lt;li&gt;As the DLITE of an ensemble (the entire system) can be computed as the weighted sum of its sub-systems, it offers researchers the capacity to dissect and reconstruct a system in different ways without altering the final scoring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These properties have enabled the creation of a new IR ranking system with superior performances, which I will elaborate in the next section.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Library Chat Analytics</title>
+      <link>https://gethugothemes.com/academia/site/project/library-chat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/library-chat/</guid>
+      <description>&lt;p&gt;Recent advances in machine learning (ML) and large language models (LLMs) are offering exciting opportunities for libraries filled with precious data. This potential shines brightly in areas like chat-based assistance. Yet, there are some roadblocks - concerns about data privacy, the risk of models giving inaccurate information (hallucination), and the expenses related to tailoring and assessing these tools specifically for libraries.&lt;/p&gt;
+&lt;p&gt;Information Retrieval, often linked to the term &amp;lsquo;Reference Retrieval&amp;rsquo;, is deeply tied to library studies and services. This approach can help navigate challenges faced by LLMs. It gives us a solid framework to analyze data-driven responses. In this process, librarians also play a pivotal role and their insights and feedback are vital in ensuring that this blend of traditional library methods and cutting-edge AI truly benefits library administrators and users.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search &amp; Retrieval</title>
+      <link>https://gethugothemes.com/academia/site/project/search/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/search/</guid>
+      <description>&lt;p&gt;A thread of my research is on big data (due to its volume and variety) and how distributed systems with machine learning (ML) can adapt and scale. With the objective to develop a large-scale decentralized search engine, we draw on inspirations from research in complex networks and multi-agent systems. We showed that efficient decentralized searches are possible in a distributed network of agents only when the network structure is optimized. According to a phenomenon we refer to as the \textit{Clustering Paradox}, there is a specific level of network clustering, i.e. grouping of neighbor agents with an ideal proportion of similar vs. dissimilar contents, where searches can be most efficient. Either over-clustering or under-clustering will lead to degraded search performances. Finding the ideal level is key to the success of agent collaboration for decentralized information seeking.&lt;/p&gt;
+&lt;p&gt;Fortunately such an ideal network structure can be achieved without a global knowledge or hard engineering in a top-down manner. Rather, agents can interconnect locally and organically to construct this global structure from bottom up. Using a connectivity probability function that favors neighbors with similar contents but allows small chances to connect with those that are different, the network of these agent communities will emerge with the following two types of links (or ties): 1) strong ties that define local communities and serve as anchors (labels) to direct searches toward their relevant target, and 2) weak ties that connect different communities together and serve as ``hubs&amp;rsquo;&amp;rsquo; for searches to jump from one community to another.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying the clustering paradox and scalability of search in highly distributed environments</title>
+      <link>https://gethugothemes.com/academia/site/publication/journal-article/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/publication/journal-article/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

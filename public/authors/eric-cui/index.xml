@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Cui on Weimao Ke</title>
+    <link>https://gethugothemes.com/academia/site/authors/eric-cui/</link>
+    <description>Recent content in Eric Cui on Weimao Ke</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://gethugothemes.com/academia/site/authors/eric-cui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A deep recommendation model of cross-grained sentiments of user reviews and ratings</title>
+      <link>https://gethugothemes.com/academia/site/publication/cai-2022-deep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/publication/cai-2022-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

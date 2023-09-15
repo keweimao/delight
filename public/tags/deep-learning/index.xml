@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Weimao Ke</title>
+    <link>https://gethugothemes.com/academia/site/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Weimao Ke</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://gethugothemes.com/academia/site/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Delight</title>
+      <link>https://gethugothemes.com/academia/site/project/deep-delight/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/deep-delight/</guid>
+      <description>&lt;p&gt;Combines Reinforcement Learning with DLITE (Delight) as a new information measure (loss function) for training and fine-tuning of machine/deep learning models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Library Chat Analytics</title>
+      <link>https://gethugothemes.com/academia/site/project/library-chat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/library-chat/</guid>
+      <description>&lt;p&gt;Recent advances in machine learning (ML) and large language models (LLMs) are offering exciting opportunities for libraries filled with precious data. This potential shines brightly in areas like chat-based assistance. Yet, there are some roadblocks - concerns about data privacy, the risk of models giving inaccurate information (hallucination), and the expenses related to tailoring and assessing these tools specifically for libraries.&lt;/p&gt;
+&lt;p&gt;Information Retrieval, often linked to the term &amp;lsquo;Reference Retrieval&amp;rsquo;, is deeply tied to library studies and services. This approach can help navigate challenges faced by LLMs. It gives us a solid framework to analyze data-driven responses. In this process, librarians also play a pivotal role and their insights and feedback are vital in ensuring that this blend of traditional library methods and cutting-edge AI truly benefits library administrators and users.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

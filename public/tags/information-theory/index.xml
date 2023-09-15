@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Theory on Weimao Ke</title>
+    <link>https://gethugothemes.com/academia/site/tags/information-theory/</link>
+    <description>Recent content in Information Theory on Weimao Ke</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://gethugothemes.com/academia/site/tags/information-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DLITE: The Discounted Least Information Theory of Entropy</title>
+      <link>https://gethugothemes.com/academia/site/publication/ke-2020-dlite2/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/publication/ke-2020-dlite2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Delight</title>
+      <link>https://gethugothemes.com/academia/site/project/deep-delight/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/deep-delight/</guid>
+      <description>&lt;p&gt;Combines Reinforcement Learning with DLITE (Delight) as a new information measure (loss function) for training and fine-tuning of machine/deep learning models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Theory</title>
+      <link>https://gethugothemes.com/academia/site/project/info-theory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gethugothemes.com/academia/site/project/info-theory/</guid>
+      <description>&lt;p&gt;What is information? How can we quantify the amount of information? These are fundamental and challenging questions. They are fundamental because a broad spectrum of problems we face are centered on the notion of \textbf{information} and how it can be measured in practical applications. Yet there is hardly any agreement on what it is and how it should be treated. From \textit{Shannon Entropy} to \textit{Landauer&amp;rsquo;s principle} and Wheeler&amp;rsquo;s ``It from Bit,&amp;rsquo;&amp;rsquo; there are perspectives in which information can be viewed and measured.&lt;/p&gt;
+&lt;p&gt;A better understanding of these questions through the lenses of related theories and discoveries will provide insight into new models for improved information representation, dissemination, and analytics. Rooted in Shannon&amp;rsquo;s entropic framework of information, my research on the Least Information Theory (LIT) and the Discounted LIT of Entropy (DLITE or pronounced \textit{delight}) attempts to address very practical problems in information processing by creating a new theory with several desirable properties. It was a risky research project I initiated as a junior faculty member which, fortunately, has yielded extraordinary fruit on both the theoretical and practical levels.&lt;/p&gt;
+&lt;p&gt;Information theory provides the foundation and guiding principles for research in search and analytics. In the formulation of LIT and DLITE as potential quantities of information, we discovered multiple principle properties desirable in information retrieval and text mining tasks.&lt;/p&gt;
+&lt;p&gt;For example, classic Inverse Document Frequency (IDF) scoring computes the amount of Kullback-Leibler (KL) divergence in a term (word) as its term weight. It is often assumed that these weights can be added up as a distance metric and can be compared on the same scale when their theoretical characteristics suggest otherwise. The development of DLITE addresses these issues because of its distinctive properties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DLITE is a \textit{volumetric} and its cube root a \textit{distance metric} that satisfies properties such as triangular inequality. It is fitting to use it in classic scoring functions where the sum of such values (scores) are meaningful.&lt;/li&gt;
+&lt;li&gt;DLITE is normalized and bounded. As such, it mitigates issues of dominant terms in the scoring/ranking function, e.g. a rare term that renders other query terms useless.&lt;/li&gt;
+&lt;li&gt;As the DLITE of an ensemble (the entire system) can be computed as the weighted sum of its sub-systems, it offers researchers the capacity to dissect and reconstruct a system in different ways without altering the final scoring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These properties have enabled the creation of a new IR ranking system with superior performances, which I will elaborate in the next section.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

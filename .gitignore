@@ -17,7 +17,6 @@ Thumbs.db
 npm-debug.log
 builds
 package-lock.json
-public
 resources
 .hugo_build.lock
 jsconfig.json
