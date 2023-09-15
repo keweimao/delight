@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Studying the clustering paradox and scalability of search in highly distributed environments"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Javed Mostafa
+date: "2013-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2013-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,17 +16,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "ACM Transcations of Information Systems"
+publication_short: "ACM TOIS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the ubiquitous production, distribution and consumption of information, today's digital environments such as the Web are increasingly large and decentralized. It is hardly possible to obtain central control over information collections and systems in these environments. Searching for information in these information spaces has brought about problems beyond traditional boundaries of information retrieval (IR) research. This article addresses one important aspect of scalability challenges facing information retrieval models and investigates a decentralized, organic view of information systems pertaining to search in large-scale networks. Drawing on observations from earlier studies, we conduct a series of experiments on decentralized searches in large-scale networked information spaces. Results show that how distributed systems interconnect is crucial to retrieval performance and scalability of searching...
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We study decentralized searches in large-scale information networks and discover the phenomenon of Clustering Paradox, that is, how distributed system interconnect and cluster imposes a limit on search performance and scalability. 
 
 tags:
-- Source Themes
-featured: false
+- Clustering Paradox
+- decentralized search
+- information retrieval
+featured: true
 
 # links:
 # - name: ""

@@ -1,9 +1,8 @@
 ---
-title: "An example conference paper"
+title: "Alternatives to Classic BM25-IDF based on a New Information Theoretical Framework"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2022-12-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,16 +15,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *IEEE Big Data 2022*
+publication_short: In *Big Data'22*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The IDF (Inverse Document Frequency) term weighting method is a classic treatment of a term's significance in information retrieval and text analytics. IDF can be derived from the information-theoretic KL Divergence and has given rise to competitive methods such as TF*IDF and Okapi BM25, which is the default scoring function of ElasticSearch. We developed a new information metric called {\dlite} and derived from it an alternative to IDF, namely {\idl}, for term weighting and scoring in ranked information retrieval. In a series of experiments we conducted on multiple benchmark TREC collections, {\idl} methods consistently outperformed BM25, a very competitive baseline, for ad hoc retrieval. We outline the theoretical properties of {\dlite} that support the effectiveness of {\idl}. As a general information measure, we expect {\dlite} to be applicable in many other areas of big-data analytics where further research will be valuable. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: DLITE theory and its derived methods for term weighting outperformed classic TF*IDF and BM25 for information retrieval. 
 
 tags:
-- Source Themes
+- Big Data
+- Osaka, Japan
 featured: true
 
 links:
