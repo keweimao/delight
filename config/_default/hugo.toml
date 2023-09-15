@@ -9,7 +9,7 @@ title = "Weimao Ke"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://gethugothemes.com/academia/site/"
+baseURL = "http://bvm95.cci.drexel.edu/weimao/"
 # baseURL = "https://lincs.cci.drexel.edu/"
 # baseURL = "http://localhost:1313/"
 

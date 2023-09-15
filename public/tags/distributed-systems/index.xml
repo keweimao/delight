@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distributed Systems on Weimao Ke</title>
-    <link>https://gethugothemes.com/academia/site/tags/distributed-systems/</link>
+    <link>http://bvm95.cci.drexel.edu/weimao/tags/distributed-systems/</link>
     <description>Recent content in Distributed Systems on Weimao Ke</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://gethugothemes.com/academia/site/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://bvm95.cci.drexel.edu/weimao/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Search &amp; Retrieval</title>
-      <link>https://gethugothemes.com/academia/site/project/search/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/project/search/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/project/search/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/project/search/</guid>
       <description>&lt;p&gt;A thread of my research is on big data (due to its volume and variety) and how distributed systems with machine learning (ML) can adapt and scale. With the objective to develop a large-scale decentralized search engine, we draw on inspirations from research in complex networks and multi-agent systems. We showed that efficient decentralized searches are possible in a distributed network of agents only when the network structure is optimized. According to a phenomenon we refer to as the \textit{Clustering Paradox}, there is a specific level of network clustering, i.e. grouping of neighbor agents with an ideal proportion of similar vs. dissimilar contents, where searches can be most efficient. Either over-clustering or under-clustering will lead to degraded search performances. Finding the ideal level is key to the success of agent collaboration for decentralized information seeking.&lt;/p&gt;
 &lt;p&gt;Fortunately such an ideal network structure can be achieved without a global knowledge or hard engineering in a top-down manner. Rather, agents can interconnect locally and organically to construct this global structure from bottom up. Using a connectivity probability function that favors neighbors with similar contents but allows small chances to connect with those that are different, the network of these agent communities will emerge with the following two types of links (or ties): 1) strong ties that define local communities and serve as anchors (labels) to direct searches toward their relevant target, and 2) weak ties that connect different communities together and serve as ``hubs&amp;rsquo;&amp;rsquo; for searches to jump from one community to another.&lt;/p&gt;
 </description>

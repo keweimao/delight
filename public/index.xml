@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weimao Ke</title>
-    <link>https://gethugothemes.com/academia/site/</link>
+    <link>http://bvm95.cci.drexel.edu/weimao/</link>
     <description>Recent content on Weimao Ke</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://gethugothemes.com/academia/site/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://bvm95.cci.drexel.edu/weimao/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://gethugothemes.com/academia/site/talk/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/talk/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://gethugothemes.com/academia/site/publication/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/publication/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/publication/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://gethugothemes.com/academia/site/courses/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/courses/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://gethugothemes.com/academia/site/post/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/post/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://gethugothemes.com/academia/site/slides/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/slides/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://gethugothemes.com/academia/site/project/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/project/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/project/</guid>
       <description></description>
     </item>
     

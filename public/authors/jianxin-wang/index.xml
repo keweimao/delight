@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jianxin Wang on Weimao Ke</title>
-    <link>https://gethugothemes.com/academia/site/authors/jianxin-wang/</link>
+    <link>http://bvm95.cci.drexel.edu/weimao/authors/jianxin-wang/</link>
     <description>Recent content in Jianxin Wang on Weimao Ke</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://gethugothemes.com/academia/site/authors/jianxin-wang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://bvm95.cci.drexel.edu/weimao/authors/jianxin-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting the survival of cancer patients with multimodal graph neural network</title>
-      <link>https://gethugothemes.com/academia/site/publication/gao-2021-predicting/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/publication/gao-2021-predicting/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/publication/gao-2021-predicting/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/publication/gao-2021-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MGNN: A multimodal graph neural network for predicting the survival of cancer patients</title>
-      <link>https://gethugothemes.com/academia/site/publication/gao-2020-mgnn/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/publication/gao-2020-mgnn/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/publication/gao-2020-mgnn/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/publication/gao-2020-mgnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel top-k subgraph query in massive graphs: Computing from the perspective of single vertex</title>
-      <link>https://gethugothemes.com/academia/site/publication/gao-2016-parallel/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/publication/gao-2016-parallel/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/publication/gao-2016-parallel/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/publication/gao-2016-parallel/</guid>
       <description></description>
     </item>
     

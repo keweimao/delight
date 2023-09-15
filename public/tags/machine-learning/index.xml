@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Weimao Ke</title>
-    <link>https://gethugothemes.com/academia/site/tags/machine-learning/</link>
+    <link>http://bvm95.cci.drexel.edu/weimao/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Weimao Ke</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://gethugothemes.com/academia/site/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://bvm95.cci.drexel.edu/weimao/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Delight</title>
-      <link>https://gethugothemes.com/academia/site/project/deep-delight/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/project/deep-delight/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/project/deep-delight/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/project/deep-delight/</guid>
       <description>&lt;p&gt;Combines Reinforcement Learning with DLITE (Delight) as a new information measure (loss function) for training and fine-tuning of machine/deep learning models.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Information Theory</title>
-      <link>https://gethugothemes.com/academia/site/project/info-theory/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/project/info-theory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/project/info-theory/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/project/info-theory/</guid>
       <description>&lt;p&gt;What is information? How can we quantify the amount of information? These are fundamental and challenging questions. They are fundamental because a broad spectrum of problems we face are centered on the notion of \textbf{information} and how it can be measured in practical applications. Yet there is hardly any agreement on what it is and how it should be treated. From \textit{Shannon Entropy} to \textit{Landauer&amp;rsquo;s principle} and Wheeler&amp;rsquo;s ``It from Bit,&amp;rsquo;&amp;rsquo; there are perspectives in which information can be viewed and measured.&lt;/p&gt;
 &lt;p&gt;A better understanding of these questions through the lenses of related theories and discoveries will provide insight into new models for improved information representation, dissemination, and analytics. Rooted in Shannon&amp;rsquo;s entropic framework of information, my research on the Least Information Theory (LIT) and the Discounted LIT of Entropy (DLITE or pronounced \textit{delight}) attempts to address very practical problems in information processing by creating a new theory with several desirable properties. It was a risky research project I initiated as a junior faculty member which, fortunately, has yielded extraordinary fruit on both the theoretical and practical levels.&lt;/p&gt;
 &lt;p&gt;Information theory provides the foundation and guiding principles for research in search and analytics. In the formulation of LIT and DLITE as potential quantities of information, we discovered multiple principle properties desirable in information retrieval and text mining tasks.&lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Library Chat Analytics</title>
-      <link>https://gethugothemes.com/academia/site/project/library-chat/</link>
+      <link>http://bvm95.cci.drexel.edu/weimao/project/library-chat/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/project/library-chat/</guid>
+      <guid>http://bvm95.cci.drexel.edu/weimao/project/library-chat/</guid>
       <description>&lt;p&gt;Recent advances in machine learning (ML) and large language models (LLMs) are offering exciting opportunities for libraries filled with precious data. This potential shines brightly in areas like chat-based assistance. Yet, there are some roadblocks - concerns about data privacy, the risk of models giving inaccurate information (hallucination), and the expenses related to tailoring and assessing these tools specifically for libraries.&lt;/p&gt;
 &lt;p&gt;Information Retrieval, often linked to the term &amp;lsquo;Reference Retrieval&amp;rsquo;, is deeply tied to library studies and services. This approach can help navigate challenges faced by LLMs. It gives us a solid framework to analyze data-driven responses. In this process, librarians also play a pivotal role and their insights and feedback are vital in ensuring that this blend of traditional library methods and cutting-edge AI truly benefits library administrators and users.&lt;/p&gt;
 </description>
