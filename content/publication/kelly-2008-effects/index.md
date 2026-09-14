@@ -17,7 +17,9 @@ authors:
 - Sanghee Oh
 - Anezka Poljakova
 - ' others'
-tags: []
+tags:
+- Search & Retrieval
+- Data & Information
 categories: []
 date: '2008-01-01'
 lastmod: 2023-09-15T11:34:13-04:00

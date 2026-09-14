@@ -7,7 +7,9 @@ summary: ''
 authors:
 - Yueyu Fu
 - Javed Mostafa
-tags: []
+tags:
+- Search & Retrieval
+- Distributed Systems
 categories: []
 date: '2004-01-01'
 lastmod: 2023-09-15T11:34:12-04:00

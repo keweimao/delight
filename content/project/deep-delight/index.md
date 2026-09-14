@@ -2,9 +2,8 @@
 title: Deep Delight
 summary: Machine learning, deep reinforcement learning, training and fine tuning with DLITE loss. 
 tags:
-- Deep Learning
-- Information Theory
 - Machine Learning
+- Data & Information
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

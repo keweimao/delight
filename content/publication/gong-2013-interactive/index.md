@@ -10,7 +10,9 @@ authors:
 - Weimao Ke
 - Yan Zhang
 - Ramona Broussard
-tags: []
+tags:
+- Search & Retrieval
+- Data & Information
 categories: []
 date: '2013-01-01'
 lastmod: 2023-09-15T11:34:14-04:00

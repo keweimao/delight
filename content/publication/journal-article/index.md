@@ -25,9 +25,8 @@ abstract: With the ubiquitous production, distribution and consumption of inform
 summary: We study decentralized searches in large-scale information networks and discover the phenomenon of Clustering Paradox, that is, how distributed system interconnect and cluster imposes a limit on search performance and scalability. 
 
 tags:
-- Clustering Paradox
-- decentralized search
-- information retrieval
+- Search & Retrieval
+- Distributed Systems
 featured: true
 
 # links:

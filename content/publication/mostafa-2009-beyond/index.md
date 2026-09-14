@@ -8,7 +8,10 @@ authors:
 - Javed Mostafa
 - Kazuhiro Seki
 - Weimao Ke
-tags: []
+tags:
+- Search & Retrieval
+- Machine Learning
+- Data & Information
 categories: []
 date: '2009-01-01'
 lastmod: 2023-09-15T11:34:14-04:00

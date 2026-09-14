@@ -2,10 +2,9 @@
 title: Privacy-Preserving Library Analytics
 summary: A local small-model system for interpretable analysis of library survey data while keeping sensitive institutional data under local control.
 tags:
-- Information Retrieval
-- Deep Learning
 - Machine Learning
-- Data and Information
+- Search & Retrieval
+- Data & Information
 date: "2026-08-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -24,8 +24,7 @@ abstract: We propose an entropy-based information measure, namely the Discounted
 summary: New Information Theory (DLITE) exhibiting properties as an information-theoretic measure and as a metric distance function, including triangular inequality. 
 
 tags:
-- DLITE
-- information theory
+- Data & Information
 featured: true
 
 links:

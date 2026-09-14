@@ -2,10 +2,9 @@
 title: Information Theory
 summary: The definition and measurement of information is fundamental to methods for information retrieval, text mining, and machine learning. 
 tags:
-- Information Theory
-- Information Retrieval
 - Machine Learning
-- Data and Information
+- Search & Retrieval
+- Data & Information
 date: "2026-08-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

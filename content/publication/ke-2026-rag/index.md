@@ -13,10 +13,8 @@ publication_short: "*AI*"
 abstract: "This study treats retrieval granularity as an evidence-design decision in retrieval-augmented question answering. Using HotpotQA, it separates evidence recovery, answer quality, context-budget effects, retriever choice, reranking, runtime and resource use, and subgroup error patterns for small language models."
 summary: "A diagnostic HotpotQA study of how retrieval granularity shapes evidence recovery, answer quality, context budgets, and resource use for small-model RAG."
 tags:
-- Information Retrieval
 - Machine Learning
-- Data and Information
-- RAG
+- Search & Retrieval
 featured: true
 projects: []
 ---

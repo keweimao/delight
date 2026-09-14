@@ -2,7 +2,7 @@
 title: Search & Retrieval
 summary: Decentralized search and retrieval on the web scale. Efficiency, effectiveness, and scalability. 
 tags:
-- Information Retrieval
+- Search & Retrieval
 - Distributed Systems
 date: "2016-04-27T00:00:00Z"
 

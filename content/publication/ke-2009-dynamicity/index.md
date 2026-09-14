@@ -8,7 +8,9 @@ authors:
 - Weimao Ke
 - Cassidy R Sugimoto
 - Javed Mostafa
-tags: []
+tags:
+- Search & Retrieval
+- Machine Learning
 categories: []
 date: '2009-01-01'
 lastmod: 2023-09-15T11:34:12-04:00

@@ -13,9 +13,8 @@ publication_short: "*Information*"
 abstract: "This work examines DLITE-based loss alongside other loss functions for AI-driven named entity recognition."
 summary: "An empirical study of DLITE loss and the effect of loss-function choice on AI-driven named entity recognition."
 tags:
-- Information Theory
 - Machine Learning
-- Data and Information
+- Data & Information
 featured: true
 projects:
 - info-theory

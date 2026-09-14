@@ -8,7 +8,9 @@ summary: ''
 authors:
 - Weimao Ke
 - Xuemei Gong
-tags: []
+tags:
+- Search & Retrieval
+- Machine Learning
 categories: []
 date: '2012-01-01'
 lastmod: 2023-09-15T11:34:14-04:00

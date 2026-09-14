@@ -24,8 +24,8 @@ abstract: The IDF (Inverse Document Frequency) term weighting method is a classi
 summary: DLITE theory and its derived methods for term weighting outperformed classic TF*IDF and BM25 for information retrieval. 
 
 tags:
-- Big Data
-- Osaka, Japan
+- Search & Retrieval
+- Data & Information
 featured: true
 
 links:
@@ -72,4 +72,3 @@ Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
