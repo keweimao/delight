@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://drexel.edu"
   location = "Philadelphia, PA"
   date_start = "2021-09-01"
-  date_end = ""
+  date_end = "2025-08-31"
   description = """"""
 
 [[experience]]

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Curiosity & Hands-on Experiments for Science and Engineering"
+subtitle = "Information retrieval, responsible AI, and information theory"
 
 [content]
   # Page type to display. E.g. project.
@@ -82,4 +82,3 @@ subtitle = "Curiosity & Hands-on Experiments for Science and Engineering"
  # CSS class.
  css_class = ""
 +++
-

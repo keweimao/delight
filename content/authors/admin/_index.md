@@ -7,14 +7,14 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "files/CV_Weimao_Ke.pdf"
+- url : "https://lincs.cci.drexel.edu/weimao/files/CV_Weimao_Ke.pdf"
   label : "Download CV in PDF"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor & Assoc Dept Head for Grad Affairs
+role: Associate Professor of Information Science
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,16 @@ organizations:
   url: "https://cci.drexel.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include information retrieval, distributed machine learning, big data, and the notion of information. 
+bio: My research connects information retrieval, information theory, distributed and agentic AI, and privacy-preserving local language models.
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
-- Data and Information
-- Information Retrieval
-- Machine Learning
-- Distributed Systems
+- Information Retrieval and RAG
+- Information Theory (LIT and DLITE)
+- Distributed and Agentic AI
+- Privacy-Preserving Local AI
 
 education:
   courses:
@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-I am passionate about working with data at extreme scales, and my ultimate research goal is to understand what information is and how to quantify meaning from massive, messy data. My research has been focused on large-scale information retrieval (IR) systems and data-intensive processes in distributed settings. I have worked on various projects related to decentralized search, distributed computing for text processing, machine learning, complex networks/systems, and information theoretic modeling. 
+I study how information can be represented, retrieved, and analyzed effectively across large, distributed, and privacy-sensitive environments. My current work brings together information retrieval, small and local language models, multi-agent systems, and information-theoretic methods. Recent projects examine evidence design for retrieval-augmented question answering, agentic scholarly communication, privacy-preserving library analytics, and LIT/DLITE measures for search and machine learning.
 
 <!-- ```
 Associate Professor
